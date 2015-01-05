@@ -4,6 +4,9 @@
  * -------------------------------------
  * Decomment takes in a code file and creates a new version without the
  * comments. This is so that the user can recomment any code file.
+ * This is particularly useful for learning to code, as the user can
+ * come to understand others' code by commenting it him/herself, thus
+ * picking up style, methodology, and algorithmic skills.
  * Pro tip: run this code on itself!
  */
 
